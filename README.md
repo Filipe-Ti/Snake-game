@@ -1,2 +1,2 @@
 # Snake-game
-El clásico juego de la cobrinha
+El clásico juego de la culebra.
